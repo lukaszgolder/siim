@@ -1,5 +1,7 @@
 # AEI App
 
+[![Build Status](https://travis-ci.org/lukaszgolder/siim.svg?branch=master)](https://travis-ci.org/lukaszgolder/siim)
+
 A simple project for AEI visualisation
 
 
