@@ -12,8 +12,5 @@ export const getRoutes = store => ({
 });
 
 export const appRoutes = store => (
-  <Router
-    history={syncHistoryWithStore(browserHistory, store)}
-    routes={getRoutes(store)}
-  />
+  <Router history={syncHistoryWithStore(browserHistory, store)} routes={getRoutes(store)} />
 );
